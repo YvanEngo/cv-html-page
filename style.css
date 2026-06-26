@@ -142,13 +142,15 @@ body{
 }
 
 .contact__tel,
-.contact__email {
+.contact__email,
+.contact__github {
     text-decoration: none;
     color: #fff;
 }
 
 .contact__email:hover,
-.contact__tel:hover {
+.contact__tel:hover,
+.contact__github:hover {
     text-decoration: underline;
 }
 
